@@ -1,0 +1,17 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.2",
+    "nodemon": "^2.0.13",
+    "request": "^2.88.2"
+  }
+}
